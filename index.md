@@ -17,12 +17,14 @@ https://www.youtube.com/watch?v=iK9rjrIVs7I
 
 ![Image](sub-buzz-2381-1507657169-1.webp)
 
- A llama duster who'll say "no prob-llama" when you wait until every inch of your home is covered in dust.
+ A llama duster who'll say "no prob-llama" when you wait until every inch of your home is covered in dust. This Projetc is related to mine due to it keeps reminiding the user to complete their task.
 
 
-![Image](missingimage.png)
+![Image](sub-buzz-2409-1507671455-3.webp)
 
-This project is related to mine because *insert reasons here*.
+https://knockknockstuff.com/products/friendly-reminder-wrist-notes
+
+ A set of reminder bracelets if you need a *trick up your sleeve* to actually get around to calling mom. This is related to mine as instead of making soounds the braclets help keep you focused on top of ur work.
 
 ![Image](missingimage.png)
 
