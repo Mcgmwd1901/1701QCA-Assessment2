@@ -53,14 +53,19 @@ This project is related to mine because *insert reasons here*.
 ## Conceptual progress ##
 
 ### Design intent ###
-My design intent is to make a device that helps with procrastination. This idea is to be used for both people with hearing disabilities,ADHD and people without. The design I hope to make is a system that the user puts on their desk and will have a countdown timer that then will alert the user to hopefully keep them on track and focused.
+My design intent is to make a device that helps with procrastination. This idea is to be used for both people with hearing disabilities,ADHD and people without. The design I hope to make is a system that the user puts on their desk and will have a countdown timer that then will alert the user to hopefully keep them on track and focused. The user does this by pressing a button that will reset a timer and continue untill they finish their project or task.
 ### Design concept 1 ###
 
 ![Image](first.png)
 
+For my First Idea I have designed a box that has a buzzer on the front that will help the user stay focused and stay on task to complete their task. The top of the box has the micro bit on the box. this was to use as a light to also indicate that the timer as gone off and to reset the box to get back to work. The micro bit will display a light or message (yet to be decied).
+
 
 ### Design concept 2 ###
+
 ![Image](2nd.png)
+
+For my Second Idea I have designed added to the box that has a buzzer, on the front I have kept the buzzer to help the user stay focused and stay on task. The top of the box has the micro bit along with a light to help alert the user's with hearing problems. this is an improvment from jsut the micro bit due to the light stands out more compraed to the microbit face.
 
 ### Final design concept ###
 For my Final design I have chosen to put the buzzer on the front as it will be pointing towards the user and as sound is therefore projected towards the user instead of in the general area making it more alert and giving a reason for the user to interact with the object. I decided to keep the light on the top this was done for deaf people, the light is set to go off when the buzzer does thus making it user friendly for people with hearing disabilities.
