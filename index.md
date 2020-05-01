@@ -42,9 +42,7 @@ This project is related to mine because *insert reasons here*.
 
 This project is related to mine because *insert reasons here*.
 
-![Image](missingimage.png)
 
-This project is related to mine because *insert reasons here*.
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
 
