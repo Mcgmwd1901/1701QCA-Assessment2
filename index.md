@@ -56,7 +56,7 @@ This project is related to mine because *insert reasons here*.
 My design intent is to make a device that helps with procrastination. This idea is to be used for both people with hearing disabilities,ADHD and people without. The design I hope to make is a system that the user puts on their desk and will have a countdown timer that then will alert the user to hopefully keep them on track and focused.
 ### Design concept 1 ###
 
-![Image](1st.png)
+![Image](first.png)
 
 
 ### Design concept 2 ###
