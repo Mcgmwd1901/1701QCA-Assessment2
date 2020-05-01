@@ -26,29 +26,36 @@ https://knockknockstuff.com/products/friendly-reminder-wrist-notes
 
  A set of reminder bracelets if you need a *trick up your sleeve* to actually get around to calling mom. This is related to mine as instead of making soounds the braclets help keep you focused on top of ur work.
 
-![Image](missingimage.png)
+![Image](sub-buzz-28819-1507654715-2.webp)
 
-This project is related to mine because *insert reasons here*.
+https://knockknockstuff.com/products/5-days-a-week-paper-mousepad
 
-![Image](missingimage.png)
+A manageable mousepad to make your lingering list virtually unavoidable. This is similar to my project due to it is positiong on a table or desk/ near where productive work is to be done. The object helps keep ontop of work with a calendar as a mouse pad. this works like mine but instead of a long term my idea is short and in the moment.
 
-This project is related to mine because *insert reasons here*.
+![Image](59ffce912b0a1c0bd79c3ae6-large.jpg)
 
-![Image](missingimage.png)
+https://geek.wish.com/product/star-wars-kitchen-timer---r2-d2-countdown-timer-with-rotating-head-59ffce912b0a1c0bd79c3ae6?hide_login_modal=true&share=web
 
-This project is related to mine because *insert reasons here*.
+A heroic timer who'll help you get that *beeping* work done in a set amount of time. This is very similar to my project as it makes a beep when the timer ends. The difference is between the two project is by on the r2d2 timer you have to reset the head similar to a timer found in the kitchen.
 
-![Image](missingimage.png)
+![Image](71AAFNjxiZL._AC_SL1500_.jpg)
 
-This project is related to mine because *insert reasons here*.
+https://clocky.com/products/clocky?variant=13822296588390
+
+Sleeping in is nice, but so is keeping your job. This means that no matter how much you don’t feel like it, you need to get out of bed on time. If you’re a chronic snooze button pusher, the Runaway Alarm Clock will definitely revolutionize your mornings. It ensures you’re up and out of bed the first time because you have to chase the thing to turn it off. This product is very similar to mine, but instead of the object staying still the robot runs away from the user.
+
 
 
 ## Other research ##
-*Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
+My other Research was into how many people procrastinate i.e have ADHD and I found that The estimated number of children ever diagnosed with ADHD, according to a national 2016 parent survey,1 is 6.1 million (9.4%). This number includes:
+388,000 children aged 2–5 years
+4 million children aged 6–11 years
+3 million children aged 12–17 years
+Boys are more likely to be diagnosed with ADHD than girls (12.9% compared to 5.6%). I used this info to come to a conclusion for my idea and final project. This was done by I found that with the invention of fidget spinners and toys of that kind most people with ADHD like to press buttons and touch stuff so I would like to make a box or tool that helps solve ADHD and a way that is still cool and fun.
 
 ### *Brief resource name/description* ###
 
-*Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
+https://www.cdc.gov/ncbddd/adhd/data.html
 
 ## Conceptual progress ##
 
