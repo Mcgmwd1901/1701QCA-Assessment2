@@ -19,6 +19,30 @@ When you have completed the template, submit the link to the GitHub Pages site f
 
 This project is related to mine because *insert reasons here*.
 
+
+![Image](missingimage.png)
+
+This project is related to mine because *insert reasons here*.
+
+![Image](missingimage.png)
+
+This project is related to mine because *insert reasons here*.
+
+![Image](missingimage.png)
+
+This project is related to mine because *insert reasons here*.
+
+![Image](missingimage.png)
+
+This project is related to mine because *insert reasons here*.
+
+![Image](missingimage.png)
+
+This project is related to mine because *insert reasons here*.
+
+![Image](missingimage.png)
+
+This project is related to mine because *insert reasons here*.
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
 
@@ -29,18 +53,19 @@ This project is related to mine because *insert reasons here*.
 ## Conceptual progress ##
 
 ### Design intent ###
-*Include your design intent here. It should be about a 10 word phrase/sentence.*
-
+My design intent is to make a device that helps with procrastination. This idea is to be used for both people with hearing disabilities,ADHD and people without. The design I hope to make is a system that the user puts on their desk and will have a countdown timer that then will alert the user to hopefully keep them on track and focused.
 ### Design concept 1 ###
-*Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
 
-*Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
+![Image](1st.png)
+
 
 ### Design concept 2 ###
-*Put details here.*
+![Image](2nd.png)
 
 ### Final design concept ###
-*This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
+For my Final design I have chosen to put the buzzer on the front as it will be pointing towards the user and as sound is therefore projected towards the user instead of in the general area making it more alert and giving a reason for the user to interact with the object. I decided to keep the light on the top this was done for deaf people, the light is set to go off when the buzzer does thus making it user friendly for people with hearing disabilities.
+
+![Image](final.png)
 
 ### Interaction flowchart ###
 *Draw a draft flowchart of what you anticipate the interaction process in your project to be. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
