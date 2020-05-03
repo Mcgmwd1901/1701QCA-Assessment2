@@ -83,7 +83,6 @@ For my Final design I have chosen to put the buzzer on the front as it will be p
 
 ![Image](flowchart.png)
 
-![Image](missingimage.png)
 
 ## Physical experimentation documentation ##
 
