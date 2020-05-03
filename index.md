@@ -95,7 +95,7 @@ Ensure you include comments about the choices you've made along the way.*
 
 ![Image](sparkfun_inventor_s_kit_for_arduino_uno_v4.0_-_leds.jpg)
 
-![Image](download.jpg)
+![Image](buzzer.jpg)
 
 ![Image](5603_inventors_kit_for_the_bbc_microbit_description.webp)
 
